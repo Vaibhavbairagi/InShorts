@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InShorts</string>
+
+    <string-array name="subHeading">
+        <item name="sub_heading1">Game of Thrones prequel series to begin filming in Belfast later this year</item>
+        <item name="sub_heading2">Googling \'Mera Aadhaar Meri Pehchan\' reveals Aadhaar details</item>
+        <item name="sub_heading3">Stranger Things 3: Cary Elwes and Jake Busey join cast </item>
+    </string-array>
+
+    <string-array name="content">
+        <item name="content1">Game of Thrones’ eighth (and final) season may have only just wrapped, but the folks over at HBO are already planning when the upcoming spin-off will start filming.Tentatively known as The Long Night (according to George RR Martin), the network has already commissioned a pilot episode from writer Jane Goldman – of Kingsman: The Secret Service, X-Men: First Class, and The Woman in Black fame. </item>
+        <item name="content2">Suits may have lost a few familiar faces this season, but they also gained a very familiar face.Katherine Heigl is about to make her debut as Samantha Wheeler, and based on everything we know and have seen so far, she's a force to be reckoned with.
+            "She's sort of having fun with people all the time," the Grey's Anatomy alum told E! News when we visited the show's Toronto set. "She kind of walks into situations not taking it terribly seriously, unless you really cross her. Then she loses the smile and the smirk and she's all business." </item>
+        <item name="content3">Information regarding season three of Stranger Things has remained fairly thin, despite the second chapter having finished months ago.Finally, though, we have something substantial to report: two prolific actors have joined the cast, Cary Elwes and Jake Busey.The casting of Elwes seems very fitting considering the series’ adoration for 80s and the actor having appeared in one of the decade’s classic comedies: The Princess Bride. Elwes went on to appear in Robin Hood: Men in Tights, Saw, and TV series The Art of More.</item>
+    </string-array>
+
+    <string-array name="readMore">
+        <item name="read_more1">Irrfan Khan to go out of India for treatment</item>
+        <item name="read_more2">Biometric Details of individual not accessible</item>
+        <item name="read_more3">India\'s trade deficit narrows to $12 bn in Feb</item>
+    </string-array>
+
+    <string name="moreAt">more at Reuters/Yesterday</string>
+    <string name="shortBY">short By Deepam Goel</string>
+    <string name="tapHere">Tap here to read more</string>
+    <string name="my_feed">My Feed</string>
+    <string name="like">Like</string>
+    <string name="like_count" />
+    <string name="share">Share</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="image">Image</string>
+    <string name="read_more_image">Read More</string>
+    <string name="menu">Menu</string>
+    <string name="refresh">refresh</string>
+
+</resources>
